@@ -1,1 +1,1 @@
-# svelte-playgorund
+# svelte-playground
